@@ -1,0 +1,14 @@
+{
+  "name": "jp-jquery-upload",
+  "version":"1.0",
+  "description":"Adapter jquery plugin upload for npm",
+  "main":"upload.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanpablocs/jp-jquery-upload.git"
+  },
+  "author": "Juan Pablo <juanpablocs21@gmail.com>",
+  "dependencies": {
+    "jquery": ">=1.7.2"
+  }
+}
