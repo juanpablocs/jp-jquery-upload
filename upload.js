@@ -75,7 +75,7 @@
 
     $.upload = function( url, data, callback, type) {
         // shift arguments if data argument was omitted
-        if ( jQuery.isFunction( data ) ) {
+        if ( $.isFunction( data ) ) {
             type = type || callback;
             callback = data;
             data = undefined;
