@@ -1,6 +1,6 @@
 {
   "name": "jp-jquery-upload",
-  "version":"1.0.2",
+  "version":"1.0.3",
   "description":"Adapter jquery plugin upload for npm",
   "main":"upload.js",
   "repository": {
